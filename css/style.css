@@ -1,0 +1,168 @@
+.logo{
+	height: 100px;
+	background-color: red;
+	margin-bottom: 10px;
+}
+.wrapper1{
+	overflow: hidden;
+	margin-bottom: 10px;
+
+}
+.SideBarNavigation1{
+	height: 200px;
+	background-color: green;
+	width: 25%;
+	float: left;
+	margin-right: 10px;
+}
+.header1{
+	height: 200px;
+	background-color: magenta;
+	width: 24%;
+	float: left;
+	margin-right: 10px;
+}
+.BodyArea1{
+	height: 200px;
+	background-color: brown;
+	width: 24%;
+	float: left;
+	margin-right: 10px;
+}
+.BodyArea21{
+	height: 200px;
+	background-color: brown;
+	width: 25%;
+	float: left;
+	/*margin-right: 10px;*/
+}
+.wrapper2{
+	overflow: hidden;
+	margin-bottom: 10px;
+
+}
+.SideBarNavigation2{
+	height: 200px;
+	background-color: green;
+	width: 25%;
+	float: left;
+	margin-right: 10px;
+}
+.header2{
+	height: 200px;
+	background-color: magenta;
+	width: 24%;
+	float: left;
+	margin-right: 10px;
+}
+.BodyArea2{
+	height: 200px;
+	background-color: brown;
+	width: 24%;
+	float: left;
+	margin-right: 10px;
+}
+.BodyArea22{
+	height: 200px;
+	background-color: brown;
+	width: 25%;
+	float: left;
+	/*margin-right: 10px;*/
+}
+.wrapper3{
+	overflow: hidden;
+	margin-bottom: 10px;
+
+}
+.SideBarNavigation3{
+	height: 200px;
+	background-color: green;
+	width: 25%;
+	float: left;
+	margin-right: 10px;
+}
+.header3{
+	height: 200px;
+	background-color: magenta;
+	width: 24%;
+	float: left;
+	margin-right: 10px;
+}
+.BodyArea3{
+	height: 200px;
+	background-color: brown;
+	width: 24%;
+	float: left;
+	margin-right: 10px;
+}
+.BodyArea23{
+	height: 200px;
+	background-color: brown;
+	width: 25%;
+	float: left;
+	/*margin-right: 10px;*/
+}
+.wrapper4{
+	overflow: hidden;
+	margin-bottom: 10px;
+
+}
+.SideBarNavigation4{
+	height: 200px;
+	background-color: green;
+	width: 25%;
+	float: left;
+	margin-right: 10px;
+}
+.header4{
+	height: 200px;
+	background-color: magenta;
+	width: 24%;
+	float: left;
+	margin-right: 10px;
+}
+.BodyArea4{
+	height: 200px;
+	background-color: brown;
+	width: 24%;
+	float: left;
+	margin-right: 10px;
+}
+.BodyArea24{
+	height: 200px;
+	background-color: brown;
+	width: 25%;
+	float: left;
+	/*margin-right: 10px;*/
+}
+.wrapper5{
+	overflow: hidden;
+	margin-bottom: 10px;
+
+}
+.SideBarNavigation5{
+	height: 300px;
+	background-color: olive;
+	width: 33%;
+	float: left;
+	margin-right: 10px;
+}
+.header5{
+	height: 300px;
+	background-color: violet;
+	width: 33%;
+	float: left;
+	margin-right: 10px;
+}
+.BodyArea5{
+	height: 300px;
+	background-color: grey;
+	width: 32%;
+	float: left;
+	/*margin-right: 10px;*/
+}
+.footer{
+	height: 100px;
+	background-color: yellow;
+	clear: both;
+}
